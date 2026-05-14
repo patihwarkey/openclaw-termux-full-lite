@@ -42,7 +42,7 @@ Ganti `USERNAME` dengan username GitHub pemilik repo.
 ```bash
 pkg update -y && pkg upgrade -y
 pkg install -y curl bash
-curl -L https://raw.githubusercontent.com/USERNAME/openclaw-termux-full-lite/main/openclaw-termux-full-lite-install.sh -o openclaw-termux-full-lite-install.sh
+curl -L https://raw.githubusercontent.com/patihwarkey/openclaw-termux-full-lite/main/openclaw-termux-full-lite-install.sh -o openclaw-termux-full-lite-install.sh
 bash openclaw-termux-full-lite-install.sh
 ```
 
